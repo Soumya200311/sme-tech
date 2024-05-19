@@ -24,6 +24,7 @@ const page = () => {
       }}>
    Privacy Policy
       </div>
+      <h1></h1>
        
     </div>
 
